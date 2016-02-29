@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./parnassvscumimag00bois_0030.png"; bbox 0 0 2096 3387; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 162 3096 688 3162">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 162 3096 688 3163">
+     <span class='ocr_line' id='line_1_1' title="bbox 162 3096 688 3162; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 564 3099 688 3148; x_wconf 35' lang='grc' dir='ltr'><strong>Νι-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 354 3096 543 3161; x_wconf 48' lang='grc' dir='ltr'><strong>«γξᾎιεῷεην</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 272 3103 343 3163; x_wconf 54' lang='grc' dir='ltr'><strong>ῑῑςξέ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 216 3104 239 3162; x_wconf 70' lang='lat' dir='ltr'><strong>³&#39;J</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 162 3098 187 3134; x_wconf 50' lang='grc' dir='ltr'><em>μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 535 3094 564 3109">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 535 3094 564 3109">
+     <span class='ocr_line' id='line_1_2' title="bbox 535 3094 564 3109; textangle 180"><span class='ocrx_word' id='word_1_6' title='bbox 535 3094 564 3109; x_wconf 53' lang='grc' dir='ltr'><strong>θ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 575 3054 625 3090">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 575 3054 625 3090">
+     <span class='ocr_line' id='line_1_3' title="bbox 575 3054 625 3090; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 575 3054 625 3090; x_wconf 42' lang='grc' dir='ltr'>π</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2096 3387">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2096 3387">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2096 3387; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2096 3387; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

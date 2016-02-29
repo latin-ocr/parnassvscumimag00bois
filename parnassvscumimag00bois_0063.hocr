@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./parnassvscumimag00bois_0063.png"; bbox 0 0 2096 3387; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 175 176 1887 2904">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 175 176 1887 2904">
+     <span class='ocr_line' id='line_1_1' title="bbox 175 176 1887 2904; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 175 176 1887 2904; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 229 2939 1642 3114">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 229 2939 1642 3114">
+     <span class='ocr_line' id='line_1_2' title="bbox 229 2939 1642 3030; baseline -0.007 -31"><span class='ocrx_word' id='word_1_2' title='bbox 229 2940 373 3030; x_wconf 70' lang='lat' dir='ltr'><em>Astra</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 408 2943 530 2996; x_wconf 78' lang='lat' dir='ltr'><em>miln&#39;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 543 2950 730 3024; x_wconf 62' lang='lat' dir='ltr'><em>palria</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 756 2949 831 3017; x_wconf 40' lang='grc' dir='ltr'><em>ψ’</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 847 2939 1078 3021; x_wconf 71' lang='lat' dir='ltr'><em>Parnff</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1110 2947 1158 2991; x_wconf 84' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1204 2943 1401 2993; x_wconf 67' lang='lat' dir='ltr'><em>vertice·</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1457 2957 1642 2989; x_wconf 73' lang='lat' dir='ltr'><strong><em>ennam</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 301 3032 1567 3114; baseline -0.009 -17"><span class='ocrx_word' id='word_1_10' title='bbox 301 3044 443 3114; x_wconf 64' lang='lat' dir='ltr'><em>Dussl&#39;</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 486 3039 574 3098; x_wconf 70' lang='lat' dir='ltr'><em>ubi</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 620 3032 698 3093; x_wconf 56' lang='lat' dir='ltr'><em>ms</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 739 3047 913 3113; x_wconf 47' lang='lat' dir='ltr'><em>viywt&#39;</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 967 3035 1154 3093; x_wconf 76' lang='lat' dir='ltr'><em>laurea.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1181 3033 1335 3113; x_wconf 66' lang='lat' dir='ltr'><em>spera</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1401 3038 1567 3114; x_wconf 41' lang='lat' dir='ltr'><em>aalma&amp;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
